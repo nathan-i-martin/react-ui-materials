@@ -1,7 +1,11 @@
 {
-  "name": "the-app",
-  "version": "0.1.0",
+  "name": "react-ui-materials",
+  "version": "0.0.1",
+  "description": "A collection of materials for bringing exciting new ideas to a user experience",
   "private": true,
+  "main": "index.js",
+  "author": "Nathan Martin",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -34,5 +38,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmartin42/react-ui-materials.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "tailwind",
+    "ui",
+    "material"
+  ],
+  "bugs": {
+    "url": "https://github.com/nmartin42/react-ui-materials/issues"
+  },
+  "homepage": "https://github.com/nmartin42/react-ui-materials#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
   }
 }
